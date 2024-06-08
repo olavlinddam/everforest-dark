@@ -68,11 +68,11 @@
       "focusedBorderColor": "accent"
     },
     "Button": {
-      "foreground": "accent",
+      "foreground": "fg",
       "startBackground": "bg",
       "endBackground": "bg",
-      "startBorderColor": "accent",
-      "endBorderColor": "accent",
+      "startBorderColor": "fg",
+      "endBorderColor": "fg",
       "installForeground": "accent",
       "installBorderColor": "accent",
       "installFillForeground": "accent",
@@ -81,11 +81,11 @@
       "updateBackground": "bg",
       "updateBorderColor": "accent",
       "default": {
-        "foreground": "accent",
+        "foreground": "fg",
         "startBackground": "bg",
         "endBackground": "bg",
-        "startBorderColor": "accent",
-        "endBorderColor": "accent",
+        "startBorderColor": "fg",
+        "endBorderColor": "fg",
         "focusedBorderColor": "accent",
         "focusColor": "accent"
       }
