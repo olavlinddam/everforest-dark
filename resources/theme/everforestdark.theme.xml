@@ -274,6 +274,18 @@
         <option name="BACKGROUND" value="f7e79f" />
       </value>
     </option>
+    <option name="CONSOLE_STANDARD_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="D3C6AA" />
+        <option name="BACKGROUND" value="f7e79f" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="E69875" />
+        <option name="BACKGROUND" value="f7e79f" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="7fbbb3" />
