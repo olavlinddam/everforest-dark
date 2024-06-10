@@ -505,7 +505,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d8caac" />
-        <option name="BACKGROUND" value="e68183" />
+        <option name="BACKGROUND" value="4c3743" />
         <option name="EFFECT_COLOR" value="d8caac" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -546,6 +546,22 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="384b55" />
         <option name="ERROR_STRIPE_COLOR" value="384b55" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d3c6aa" />
+        <option name="BACKGROUND" value="4f5b58" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7fbbb3" />
+        <option name="BACKGROUND" value="4f5b58" />
+        <option name="EFFECT_COLOR" value="7fbbb3" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
@@ -1603,19 +1619,10 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="e69875" />
+        <option name="FOREGROUND" value="7fbbb3" />
       </value>
     </option>
-    <option name="PY.STRING.B">
-      <value>
-        <option name="FOREGROUND" value="83c092" />
-      </value>
-    </option>
-    <option name="PY.STRING.U">
-      <value>
-        <option name="FOREGROUND" value="83c092" />
-      </value>
-    </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="e67e80" />
@@ -1685,6 +1692,12 @@
         <option name="FOREGROUND" value="83c092" />
       </value>
     </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="45443c" />
+        <option name="ERROR_STRIPE_COLOR" value="8e8eb2" />
+      </value>
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e67e80" />
@@ -1745,6 +1758,12 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="404c51" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="45443c" />
+        <option name="ERROR_STRIPE_COLOR" value="b28fb2" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
