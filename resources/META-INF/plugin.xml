@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.olavlinddam.everforest-dark</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
 
     <!-- Public plugin name should be written in Title Case.
@@ -13,7 +13,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="110632249+olavlinddam@users.noreply.github.com" url="https://github.com/olavlinddam">Olav Lind-Dam</vendor>
 
-    <idea-version since-build="232" until-build="242.*"/>
+    <idea-version since-build="232" until-build="243.*"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
