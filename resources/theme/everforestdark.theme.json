@@ -321,7 +321,8 @@
     "Editor": {
       "background": "deepBg",
       "foreground": "fg",
-      "shortcutForeground": "fg"
+      "shortcutForeground": "fg",
+      "borderColor": "border"
     },
     "EditorGroupsTabs": {
       "background": "bg",

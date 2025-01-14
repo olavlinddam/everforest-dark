@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.olavlinddam.everforest-dark</id>
-    <version>1.0.3</version>
+    <version>1.0.5</version>
 
 
     <!-- Public plugin name should be written in Title Case.
